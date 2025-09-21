@@ -80,5 +80,5 @@ A **Gradio interface** allows users to paste text and receive real-time predicti
 
 
 ## Authors
-- Παπασπύρου Αρτεμισία (p2822424)  
-- Παριανού Ζωή-Αικατερίνη (p2822425)  
+- Papaspyrou Artemis  
+- Parianou Zoi-Aikaterini  

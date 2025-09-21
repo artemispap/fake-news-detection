@@ -45,7 +45,7 @@ The final solution combines **BERT with a CNN classification head**, achieving s
 ### 4) **DistilBERT**
 - Lightweight backbone with GlobalAveragePooling + MLP  
 - Test accuracy: **93.9%**  
-- Faster and smaller—good for latency‑sensitive deployments  
+- Faster and smaller
 
 ### 5) **NLTK + LSTM (Baseline)**
 - Tokenizer + LSTM trained from scratch (no pretrained embeddings)  
